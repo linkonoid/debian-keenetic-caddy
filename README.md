@@ -1,7 +1,7 @@
 # debian-keenetic-caddy
 Run Caddy server on Zyxel Keenetic in Debian chroot
 ===================================================
-Установка Caddy-сервера на Zyxel-Keenetic под Debian (http://keenetic-gi.ga/2017/06/21/debian-via-chroot/) 
+Установка Caddy-сервера на Zyxel Keenetic Giga II (Версия NDMS 2.09.C.1.0-1) под Debian (http://keenetic-gi.ga/2017/06/21/debian-via-chroot/) 
 
 Скачиваем http://keenetic-gi.ga/assets/2017-06/debian_keenetic.tgz на флешку и действуем по инструкции http://keenetic-gi.ga/2017/06/21/debian-via-chroot/.
 
